@@ -1,0 +1,80 @@
+C:\Users\dmoreira\Desktop\Novo Dev\obj\Debug\netcoreapp3.1\Novo Dev.csprojAssemblyReference.cache
+C:\Users\dmoreira\Desktop\Novo Dev\obj\Debug\netcoreapp3.1\Novo Dev.csproj.CoreCompileInputs.cache
+C:\Users\dmoreira\Desktop\Novo Dev\obj\Debug\netcoreapp3.1\Novo Dev.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dmoreira\Desktop\Novo Dev\obj\Debug\netcoreapp3.1\Novo Dev.AssemblyInfoInputs.cache
+C:\Users\dmoreira\Desktop\Novo Dev\obj\Debug\netcoreapp3.1\Novo Dev.AssemblyInfo.cs
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Novo Dev.exe
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Novo Dev.deps.json
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Novo Dev.runtimeconfig.json
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Novo Dev.runtimeconfig.dev.json
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Novo Dev.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Novo Dev.pdb
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\dmoreira\Desktop\Novo Dev\obj\Debug\netcoreapp3.1\Novo Dev.RazorTargetAssemblyInfo.cache
+C:\Users\dmoreira\Desktop\Novo Dev\obj\Debug\netcoreapp3.1\Novo Dev.csproj.CopyComplete
+C:\Users\dmoreira\Desktop\Novo Dev\obj\Debug\netcoreapp3.1\staticwebassets\Novo Dev.StaticWebAssets.Manifest.cache
+C:\Users\dmoreira\Desktop\Novo Dev\obj\Debug\netcoreapp3.1\staticwebassets\Novo Dev.StaticWebAssets.xml
+C:\Users\dmoreira\Desktop\Novo Dev\obj\Debug\netcoreapp3.1\Novo Dev.dll
+C:\Users\dmoreira\Desktop\Novo Dev\obj\Debug\netcoreapp3.1\Novo Dev.pdb
+C:\Users\dmoreira\Desktop\Novo Dev\obj\Debug\netcoreapp3.1\Novo Dev.genruntimeconfig.cache
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\dmoreira\Desktop\Novo Dev\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+C:\Users\dmoreira\Desktop\Novo Dev\obj\Debug\netcoreapp3.1\Novo Dev.MvcApplicationPartsAssemblyInfo.cs
