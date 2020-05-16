@@ -9,7 +9,6 @@ namespace Novo_Dev.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
     public class FranquiaController : ControllerBase
     {
         private readonly Context context;
@@ -19,6 +18,7 @@ namespace Novo_Dev.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public IActionResult Get()
         {
             var franquias = context.Franquias;
@@ -26,14 +26,15 @@ namespace Novo_Dev.Controllers
         }
 
         [HttpGet("Search")]
-        public IActionResult GetByName([FromBody] string nome)
+        [Authorize]
+        public IActionResult GetByName([FromQuery] string nome)
         {
             var franquia = context.Franquias.FirstOrDefault(c => c.Nome == nome);
             return Ok(franquia);
         }
 
         [HttpPost]
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "admin")]
         public void Post(Franquia franquia)
         {
             context.Franquias.Add(franquia);
@@ -41,7 +42,7 @@ namespace Novo_Dev.Controllers
         }
 
         [HttpPut]
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "admin")]
         public void Put(Franquia franquia)
         {
             context.Franquias.Update(franquia);
@@ -49,12 +50,13 @@ namespace Novo_Dev.Controllers
         }
 
         [HttpDelete("{id}")]
-        [Authorize(Roles = "Admin")]
-        public void Delete(string id)
+        [Authorize(Roles = "admin")]
+        public IActionResult Delete(string id)
         {
             var franquia = context.Franquias.Find(id);
             context.Franquias.Remove(franquia);
-            context.SaveChanges();                   
+            context.SaveChanges();
+            return Ok();                 
         }
     }
 }

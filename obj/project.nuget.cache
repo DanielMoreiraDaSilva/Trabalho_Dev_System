@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ucOP3z4+piyZCd/pljC9PUZMvgaPwJd/Rl2mbcCd6r7udmtjos2uvNR5bd0IUbrVjeV7ETz29HZfey2fPGkiAQ==",
+  "dgSpecHash": "6iR7i9cQAjrtawQsLFSMBa4+ByYEt7LAQicMUw4/X111vb9wwJSJRxPPVgVUAP09/jq84tt5T/tn+HfQyzAYFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dmoreira\\Desktop\\Novo Dev\\Novo Dev.csproj",
+  "projectFilePath": "C:\\Users\\dmoreira\\Desktop\\Faculdade\\Desenvolvimento de Software - João\\Trabalho_AP2_Dev_System\\Novo Dev.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dmoreira\\.nuget\\packages\\microsoft.aspnet.webapi.client\\4.0.20710\\microsoft.aspnet.webapi.client.4.0.20710.nupkg.sha512",
     "C:\\Users\\dmoreira\\.nuget\\packages\\microsoft.aspnet.webapi.core\\4.0.20710\\microsoft.aspnet.webapi.core.4.0.20710.nupkg.sha512",

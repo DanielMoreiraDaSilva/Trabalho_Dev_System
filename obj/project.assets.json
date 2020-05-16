@@ -5901,11 +5901,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dmoreira\\Desktop\\Novo Dev\\Novo Dev.csproj",
+      "projectUniqueName": "C:\\Users\\dmoreira\\Desktop\\Faculdade\\Desenvolvimento de Software - João\\Trabalho_AP2_Dev_System\\Novo Dev.csproj",
       "projectName": "Novo Dev",
-      "projectPath": "C:\\Users\\dmoreira\\Desktop\\Novo Dev\\Novo Dev.csproj",
+      "projectPath": "C:\\Users\\dmoreira\\Desktop\\Faculdade\\Desenvolvimento de Software - João\\Trabalho_AP2_Dev_System\\Novo Dev.csproj",
       "packagesPath": "C:\\Users\\dmoreira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dmoreira\\Desktop\\Novo Dev\\obj\\",
+      "outputPath": "C:\\Users\\dmoreira\\Desktop\\Faculdade\\Desenvolvimento de Software - João\\Trabalho_AP2_Dev_System\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

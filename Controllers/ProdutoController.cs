@@ -26,7 +26,7 @@ namespace Novo_Dev.Controllers
 
         [HttpGet("Search")]
         [Authorize]
-        public IActionResult GetByName([FromBody] string nome)
+        public IActionResult GetByName([FromQuery] string nome)
         {
             var produto = context.Produtos.FirstOrDefault(c => c.Nome == nome);
             return Ok(produto);
@@ -40,16 +40,17 @@ namespace Novo_Dev.Controllers
             context.SaveChanges();
         }
 
-        [HttpPut]
-        [Authorize(Roles = "Admin")]
-        public void Put(Produto produto)
+        [HttpPut("{id}")]
+        [Authorize(Roles = "admin")]
+        public IActionResult Put([FromBody]Produto produto)
         {
             context.Produtos.Update(produto);
             context.SaveChanges();
+            return Ok();
         }
 
         [HttpDelete("{id}")]
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "admin")]
         public IActionResult Delete(string id)
         {
             var produto = context.Produtos.FirstOrDefault(c => c.ProdutoId == id);
